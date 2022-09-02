@@ -1,5 +1,5 @@
 {
-  "name": "npmtakeover",
+  "name": "@trialcard/npmtakeover",
   "version": "1.0.0",
   "description": "A PoC package to show that an NPM org has been claimed",
   "main": "index.js",
@@ -8,5 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "William Wallace @phyr3wall",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwallace/npm-takeover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwallace/npm-takeover/issues"
+  },
+  "homepage": "https://github.com/wwallace/npm-takeover#readme"
 }
