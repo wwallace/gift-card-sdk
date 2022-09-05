@@ -1,7 +1,7 @@
 {
   "name": "gift-card-sdk",
-  "version": "99.99.99",
-  "description": "A PoC package to show that this NPM package has been claimed",
+  "version": "1.0.0",
+  "description": "Synack Red Team Starter Package. Gift Card SDK",
   "main": "index.js",
   "scripts": {
     "preinstall": "node index.js",
@@ -11,10 +11,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wwallace/npm-takeover.git"
+    "url": "git+https://github.com/wwallace/gift-card-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/wwallace/npm-takeover/issues"
+    "url": "https://github.com/wwallace/gift-card-sdk/issues"
   },
-  "homepage": "https://github.com/wwallace/npm-takeover#readme"
+  "homepage": "https://github.com/wwallace/gift-card-sdk#readme"
 }
