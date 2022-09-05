@@ -1,7 +1,7 @@
 {
-  "name": "@trialcard/npmtakeover",
-  "version": "1.0.0",
-  "description": "A PoC package to show that an NPM org has been claimed",
+  "name": "gift-card-sdk",
+  "version": "99.99.99",
+  "description": "A PoC package to show that this NPM package has been claimed",
   "main": "index.js",
   "scripts": {
     "preinstall": "node index.js",
