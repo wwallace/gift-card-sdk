@@ -6,8 +6,11 @@ exec("echo Hello $(whoami), thanks for installing me on $(hostname)", (error, st
         return;
     }
     if (stderr) {
+	console.log(`Synack Red Team Thanks You.`)
         console.log(`stderr: ${stderr}`);
         return;
     }
+
+    console.log(`Synack Red Team Thanks You.`)
     console.log(`stdout: ${stdout}`);
 });
